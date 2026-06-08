@@ -2,7 +2,7 @@
 ## 📷 Dashboard Preview
 
 ### Sales & Customer Intelligence Dashboard
-![Dashboard](dashboard(2).png)
+![Dashboard](dashboard%20(2).png)
 
 ### Customer Details Dashboard
 ![Customer Details](customer_details.png)
