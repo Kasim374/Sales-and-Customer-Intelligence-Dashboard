@@ -5,7 +5,7 @@
 ![Dashboard](dashboard.png)
 
 ### Customer Details Dashboard
-![Customer Details](customer-details.png)
+![Customer Details](customer_details.png)
 
 ## Project Summary
 I developed this Power BI dashboard to analyze sales performance, customer behavior, and product trends. The goal was to convert raw business data into meaningful insights that can support decision-making.
